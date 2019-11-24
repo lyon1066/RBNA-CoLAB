@@ -1,3 +1,10 @@
+# CoLAB paired programming code 2019
+#
+# This code is from paired programming workshops
+# --Verified first step, need to add next steps for chat function
+#
+# Contact John T Haworth for questions
+
 # read ip address of the raspberry pi
 import socket
 def get_ip():

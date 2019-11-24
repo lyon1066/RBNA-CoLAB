@@ -1,6 +1,7 @@
 # CoLAB paired programming code 2019
 #
 # This code is from paired programming workshops
+# --Verified basic function
 #
 # Contact John T Haworth for questions
 
