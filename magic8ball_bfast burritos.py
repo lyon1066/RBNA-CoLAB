@@ -1,3 +1,9 @@
+# CoLAB paired programming code 2019
+#
+# This code is from paired programming workshops
+#
+# Contact John T Haworth for questions
+
 import random
 
 
