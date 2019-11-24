@@ -1,7 +1,8 @@
 # CoLAB paired programming code 2019
 #
 # This code is from paired programming workshops
-#
+# -- Verified function
+
 # Contact John T Haworth for questions
 
 #asks user for hex input
