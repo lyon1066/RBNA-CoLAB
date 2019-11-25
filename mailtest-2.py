@@ -5,6 +5,7 @@
 # This code is from paired programming workshops
 # -- Verified function for John's work laptom
 # -- Not converted for use with Raspberry Pi
+# Next step is to create a portable version that is able to be used by others
 
 # Contact John T Haworth for questions
 
