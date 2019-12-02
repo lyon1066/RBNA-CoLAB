@@ -1,0 +1,21 @@
+# CoLAB paired programming code 2019
+#
+# This code is from paired programming workshops
+# -- Verified function
+
+# Contact John T Haworth for questions
+
+#asks user for hex input
+print('Enter Hex value')
+
+#user inputs hex value
+h = input()
+
+try:
+    hexval = int(h,16)
+    d = str(int(h,16))
+    print('Decimal value is: ', d)
+except:
+    print ('Wrong Value')
+
+
